@@ -32,12 +32,12 @@ public class SettingsActivity extends AppCompatActivity {
             }
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
-                // Optional: Add any start tracking logic
+                // Optional:  start tracking logic
             }
 
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
-                // Optional: Add any stop tracking logic
+                // Optional:  stop tracking logic
             }
         });
 
