@@ -1,8 +1,8 @@
 # FallDetectionApp
 
 ## Overview
-An Android application that detects falls using the device's accelerometer and gyroscope sensors and sends an SMS alert to a predefined contact.
-
+An Android application that detects falls using the device's accelerometer and gyroscope sensors and sends an SMS alert to a predefined contact.  
+Demo - (Alertra Demo.mp4)
 ## Features
 - **Real-time sensor data display**
 - **Fall detection using accelerometer and gyroscope**
